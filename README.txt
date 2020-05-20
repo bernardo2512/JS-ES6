@@ -1,0 +1,1 @@
+usar yarn dev para startar o servidor.
